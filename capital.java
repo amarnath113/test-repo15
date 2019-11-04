@@ -1,6 +1,6 @@
 class cpital 
 {
-	public static void main()
+	public static
 	{
 	}
 }
