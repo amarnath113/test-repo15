@@ -1,1 +1,1 @@
-class info
+amar class info
